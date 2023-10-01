@@ -1,5 +1,3 @@
 streamlit
-pandas
-math
-sklearn
-numpy
+scikit-learn
+

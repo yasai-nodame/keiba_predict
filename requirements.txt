@@ -1,5 +1,5 @@
-requests
-bs4
+streamlit
 pandas
-re
-def_list_scrapy
+math
+sklearn
+numpy

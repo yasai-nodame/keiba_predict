@@ -1,0 +1,6 @@
+io
+requests
+bs4
+pandas
+re
+def_list_scrapy
